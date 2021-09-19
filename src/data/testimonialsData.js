@@ -11,45 +11,17 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
-        image: boy2
+        name: 'Nicholas Thomson',
+        title: 'Technical Writer for Datadog ',
+        text: "Mo can solve any problem put in front of him. I learned more working on an app with Mo than I did during any other week at bootcamp. Whether it was JavaScript, React, or Ruby, he was always thinking steps ahead. He would be an asset on any team.",
+        image: "https://media-exp1.licdn.com/dms/image/C4D03AQFUgNwMBrnctg/profile-displayphoto-shrink_800_800/0/1536676806409?e=1637798400&v=beta&t=xow2g1U54hieMIBZwOAxdBJVCqFJ58iUuWEZbdkFH3c"
     },
     {
         id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
-    },
-    {
-        id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: girl1
-    },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
-        image: boy1
-    },
-    {
-        id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
-        image: girl3
-    },
-    {
-        id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
-        image: boy3
+        name: 'Faiyam Rahman',
+        title: 'Lead Backend Software Engineer at Seasons NYC',
+        text: "Mo is one of the most reliable and committed people I know. When Mo’s on the job, I know it’s going to get done. I know he’ll be a great addition to any engineering team!",
+        image: "https://media-exp1.licdn.com/dms/image/C4D03AQFbYFe0BmZk7w/profile-displayphoto-shrink_800_800/0/1583882385295?e=1637798400&v=beta&t=dskxZcX49YypblPJTxvn-fVcUek7oDCWS9WocEwkvvU"
     }
 ]
 

@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'Flatiron School',
+        course: 'Full Stack Web Development, Ruby on Rails and JavaScript program',
+        startYear: '2021',
+        endYear: '2021'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
-    },
+        institution: 'Rutgers University, Rutgers Business School',
+        course: 'Major: Bachelor of Science, Finance',
+        startYear: '2011',
+        endYear: '2015'
+    }
 ]
