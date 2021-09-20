@@ -13,7 +13,7 @@ export const testimonialsData = [
         id: 1,
         name: 'Nicholas Thomson',
         title: 'Technical Writer for Datadog ',
-        text: "Mo can solve any problem put in front of him. I learned more working on an app with Mo than I did during any other week at bootcamp. Whether it was JavaScript, React, or Ruby, he was always thinking steps ahead. He would be an asset on any team.",
+        text: "Mo can solve any problem put in front of him. Whether it was JavaScript, React, or Ruby, he was always thinking steps ahead. He would be an asset on any team.",
         image: "https://media-exp1.licdn.com/dms/image/C4D03AQFUgNwMBrnctg/profile-displayphoto-shrink_800_800/0/1536676806409?e=1637798400&v=beta&t=xow2g1U54hieMIBZwOAxdBJVCqFJ58iUuWEZbdkFH3c"
     },
     {
