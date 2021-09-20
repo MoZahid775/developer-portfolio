@@ -1,11 +1,4 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+
 
 
 export const projectsData = [
@@ -16,7 +9,7 @@ export const projectsData = [
         tags: ['React', 'Rails', 'Semantic Ui'],
         code: 'http://github.com/MoZahid775/clientology',
         demo: 'https://youtu.be/O8lf9FEiKko',
-        image: `https://i9.ytimg.com/vi_webp/O8lf9FEiKko/mqdefault.webp?sqp=CODlnooG&rs=AOn4CLA3m8nleJ8iJWS2QNLciVYUbid8Fg`
+        image: `https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/242182012_10159627646543914_679076295913363510_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=qHVK4Egv8x8AX8yeq2Y&_nc_ht=scontent-lga3-1.xx&oh=fb3bac7000a1118f2363794d8d501141&oe=616D97ED`
     },
     {
         id: 2,
@@ -25,7 +18,7 @@ export const projectsData = [
         tags: ['React', 'CSS', 'Rails'],
         code: 'https://github.com/MoZahid775/open-chessame',
         demo: 'https://youtu.be/o2qxblmATNI',
-        image: 'https://i9.ytimg.com/vi_webp/o2qxblmATNI/mqdefault.webp?sqp=CODlnooG&rs=AOn4CLBTXD-5qTGrtOwT7cmtyh92DYzJIQ'
+        image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/242175195_10159627646533914_8906297445132198235_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=T9oxkYP7zfYAX8nBnOH&_nc_ht=scontent-lga3-1.xx&oh=d3fe615920cab95ff7bc1cbb9dc0e523&oe=616DFDE8'
     },
     {
         id: 3,
@@ -34,7 +27,7 @@ export const projectsData = [
         tags: ['React', 'Ruby', 'Sinatra Framework'],
         code: 'https://github.com/MoZahid775/arnold',
         demo: 'https://youtu.be/rcs8YSIO4o4',
-        image: 'https://i9.ytimg.com/vi_webp/rcs8YSIO4o4/mqdefault.webp?v=6147b346&sqp=CODlnooG&rs=AOn4CLBOSz-2DpB0kH5vDq7kigf9K1nz9Q'
+        image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/242207255_10159627634273914_911585231145010019_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_ohc=FKpPyL9kgI0AX9V0s1q&_nc_ht=scontent-lga3-1.xx&oh=0a0fba89c40fd7c7fe7d73c2c2acb4ae&oe=616F910B'
     }
 ]
 
