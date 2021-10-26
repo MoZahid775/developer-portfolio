@@ -29,7 +29,7 @@ export const testimonialsData = [
         id: 3,
         name: 'Dmitry Pavluk',
         title: 'Senior Software Engineer for Canopy Inc',
-        text: "I have known Mo to always bring an exceptionally high level of forethought and care to any and every endeavor he takes on. We met through kriya yoga, and the values contained therein - responsibility, intention, clearsightedness - Mo espouses in his personal, professional, and spiritual undertakings. I can sincerely recommend him as a singular friend, colleague, and employee.",
+        text: "I have known Mo to always bring an exceptionally high level of forethought and care to any and every endeavor he takes on. I recommend him as a singular friend, colleague, and employee.",
         image: dimitre
     },
     {
