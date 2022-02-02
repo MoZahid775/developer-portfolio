@@ -56,7 +56,7 @@ function Testimonials() {
                                         <div className="single--testimony" key={test.id}>
                                             <div className="testimonials--container" >
                                                 <div className="review--img" style={{backgroundColor: theme.secondary}}>
-                                                    <img src={test.image} alt={test.name} />
+                                                    <img src={test.image} alt={test.name} className='test' />
                                                 </div>
                                                 <div className="review--content" style={{backgroundColor: theme.secondary, color: theme.tertiary}}>
                                                     <p>{test.text}</p>

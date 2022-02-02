@@ -138,6 +138,11 @@
     width: 70px;
 }
 
+.test{
+  border-radius: 50%;
+}
+
+
 .review--content{
     margin: 0 auto;
     width: 90%;

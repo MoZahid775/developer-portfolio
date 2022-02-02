@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Mo Zahid. I'm a software engineer based in Astoria, NY.",
-    description2: "During the day I work as a volunteer front-end developer at an international non profit and in the evening I work on freelance projects and utilize the time to built my own products. I spend my leisure hours training  brazilian jiu jitsu and weight training. I love to learn and explore new things.",
+    description1: "My name's Mo Zahid. I'm a software engineer based out of Clearwater, FL. Currently I am supporting a startup dating platform called Meetopolis build out their web application. This is a very exciting opporunity for me and has been my first brush with startup culture! I love it!",
+    description2: "I enjoy working in a full stack capacity, but If I had to choose between the front and the back on which one I love more. I would have to say front(React) because I have a great eye for what looks good. It is not hard for me to put myself in the shoes of the end user and to build out features accordingly. When I code I try and hit states of flow which usually enables me to sit for long stretches without even realizing they are long! Software Development has brought such zest into my life and I am very grateful to be on this path. In addition to development I maintain a daily meditation and fitness regiment. I am a Brazilian Jiu-jitsu Blue Belt and I also love going to the beach",
     image: 1
 }

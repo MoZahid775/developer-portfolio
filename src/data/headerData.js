@@ -1,6 +1,7 @@
 import resume from '../assets/pdf/resume.pdf'
 import resume2 from '../assets/pdf/resume2.pdf'
 import mo from '../assets/jpeg/mo.jpg'
+import resume3 from '../assets/pdf/resume3.pdf'
 
 
 
@@ -9,5 +10,5 @@ export const headerData = {
     title: "Software Engineer",
     desciption:"I shall be telling this with a sigh... Somewhere ages and ages hence: Two roads diverged in a wood, and I— I took the one less traveled by, and that has made all the difference.",
     image: mo,
-    resumePdf: resume2
+    resumePdf: resume3
 }
